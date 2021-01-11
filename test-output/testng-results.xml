@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="25619" started-at="2021-01-11T17:38:32Z" finished-at="2021-01-11T17:38:58Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="25619" started-at="2021-01-11T17:38:32Z" finished-at="2021-01-11T17:38:58Z">
+      <class name="RideCellSkillTest.RideCellSkillTest.IntegrationTests1">
+        <test-method status="PASS" signature="setup()[pri:0, instance:RideCellSkillTest.RideCellSkillTest.IntegrationTests1@f6c48ac]" name="setup" is-config="true" duration-ms="9853" started-at="2021-01-11T17:38:32Z" finished-at="2021-01-11T17:38:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="repositoryDetailsTest(java.lang.reflect.Method)[pri:0, instance:RideCellSkillTest.RideCellSkillTest.IntegrationTests1@f6c48ac]" name="repositoryDetailsTest" duration-ms="12475" started-at="2021-01-11T17:38:42Z" finished-at="2021-01-11T17:38:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void RideCellSkillTest.RideCellSkillTest.IntegrationTests1.repositoryDetailsTest(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- repositoryDetailsTest -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:RideCellSkillTest.RideCellSkillTest.IntegrationTests1@f6c48ac]" name="TearDown" is-config="true" duration-ms="3200" started-at="2021-01-11T17:38:54Z" finished-at="2021-01-11T17:38:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- RideCellSkillTest.RideCellSkillTest.IntegrationTests1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
